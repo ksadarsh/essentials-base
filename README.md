@@ -1,0 +1,2 @@
+# essentials-base
+Base requirements
